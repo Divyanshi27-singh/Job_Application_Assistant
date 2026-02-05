@@ -1,0 +1,9 @@
+
+# ✅  `requirements.txt`
+
+```txt
+streamlit
+pdfplumber
+python-docx
+sentence-transformers
+scikit-learn
